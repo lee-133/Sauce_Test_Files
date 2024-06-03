@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this is a test"
+defaults write com.apple.Safari DefaultPageZoom  "1.25"
